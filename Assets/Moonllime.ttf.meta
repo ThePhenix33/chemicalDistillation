@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 26bf4ca1c7f3b484ebf58e4f52accfaa
+timeCreated: 1558284435
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Moonllime
+  fontNames:
+  - Moonllime
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
